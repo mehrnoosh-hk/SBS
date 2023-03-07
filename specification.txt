@@ -2,3 +2,5 @@ Users can define their availabilities
 Users can group their availabilities 
 Clients can select availabilities 
 Clients can change or cancel their selection
+
+Quality attributes:
